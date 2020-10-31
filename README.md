@@ -3,12 +3,12 @@
 ## Just a regular college student!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers!
-- 🥅 2021 Goals: Contribute more to Open Source projects!
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spikeys Spotify" width="350" />](https://open.spotify.com/user/3173x3qwoqqbwftk3uiccrs3jxri)
+[<img src="https://api.spotify.com/v1/SpikeyHelmet/player/currently-playing" alt="Spikeys Spotify" width="350" />](https://open.spotify.com/user/3173x3qwoqqbwftk3uiccrs3jxri)
 
 ### Connect with me:
 
