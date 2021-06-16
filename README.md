@@ -1,10 +1,10 @@
 ### Hey there, I'm Rayon - aka SpikeyHelmet 👋
 
-## Just a regular college student!
+## An Average 21 Year old Developer 👨🏻‍💻!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently specializing in Backend Engineering.
+- 👯 I’m looking to collaborate with other developers.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 ### Spotify Playing 🎧
 
@@ -52,7 +52,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Spikeys GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SpikeyHelmet&show_icons=true&hide_border=true" />
+  <img align="left" alt="Spikeys GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SpikeyHelmet&count_private=true&show_icons=true&theme=dark" />
 
 </details>
 
