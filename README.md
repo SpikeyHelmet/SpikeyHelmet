@@ -6,10 +6,6 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spikeys Spotify" width="350" />](https://open.spotify.com/user/3173x3qwoqqbwftk3uiccrs3jxri)
-
 ### Connect with me:
 
 [<img align="left" alt="Spikey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -45,7 +41,7 @@
 - [Best Screen Recorder Tools For Windows 10!](https://meshpie.com/10-best-screen-recorder-tools-for-windows/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://meshpie.com)
+➡️ [more blog posts...](https://meshpie.com/author/rayon/)
 
 ---
 
