@@ -1,6 +1,6 @@
 ### Hey there, I'm Rayon - aka SpikeyHelmet 👋
 
-## An Average 21 Year old Developer 👨🏻‍💻!
+## An Average 21 Year old Developer 👨🏻‍💻! <img align="right" alt="Profile Hits" src="https://visitor-badge.laobi.icu/badge?page_id=SpikeyHelmet.SpikeyHelmet">
 
 - 🌱 I’m currently specializing in Backend Engineering.
 - 👯 I’m looking to collaborate with other developers.
