@@ -1,10 +1,10 @@
 ### Hey there, I'm Rayon - aka SpikeyHelmet 👋
 
-## An Average 22 Year old Developer 👨🏻‍💻! <img align="right" alt="Profile Hits" src="https://visitor-badge.laobi.icu/badge?page_id=SpikeyHelmet.SpikeyHelmet">
+## Your Average 24 Year old Developer 👨🏻‍💻! <img align="right" alt="Profile Hits" src="https://visitor-badge.laobi.icu/badge?page_id=SpikeyHelmet.SpikeyHelmet">
 
 - 🌱 I’m currently specializing in Backend Engineering.
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🏢 Working as a Developer @Zoho.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
