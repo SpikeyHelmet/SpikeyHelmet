@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="52" viewBox="0 0 142 52" role="img" aria-label="Instagram">
+<title>Instagram</title>
+<style><![CDATA[
+.d{font-family:'Inter Tight', Inter, 'Segoe UI Variable Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif}
+.m{font-family:'Geist Mono', ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, monospace}
+
+.ch{opacity:0;animation:ch 4.5s linear infinite}
+@keyframes ch{0%{opacity:0}4%{opacity:1}30%{opacity:0}100%{opacity:0}}
+.hu{animation:hu 6s linear infinite}
+@keyframes hu{0%,100%{fill:#6e9bff}33%{fill:#3ce6a8}66%{fill:#b79cff}}
+.pu{animation:pu 2.4s ease-in-out infinite}
+@keyframes pu{50%{opacity:.35}}
+.bl{animation:bl 1.6s steps(1) infinite}
+@keyframes bl{50%{opacity:.18}}
+.pk{opacity:0;animation:pk 1.8s linear infinite}
+@keyframes pk{0%{transform:translateX(0);opacity:0}15%{opacity:1}85%{opacity:1}100%{transform:translateX(64px);opacity:0}}
+
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.ch{opacity:0}.pk{opacity:0}}
+]]></style>
+<defs><filter id="glow" filterUnits="userSpaceOnUse" x="-142" y="-52" width="426" height="156"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="1" y="5.5" width="139.3" height="44" rx="10" fill="#636363"/><rect x="1" y="1.5" width="139.3" height="44" rx="10" fill="#ffffff" stroke="#c4c4c4"/><text x="21.0" y="28.0" class="m" font-size="14" font-weight="600" fill="#0b0b14" letter-spacing="0.3">Instagram</text><path d="M109.3 28.5L120.3 17.5M112.8 17.5H120.3V25.0" stroke="#0b0b14" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
